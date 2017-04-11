@@ -2,5 +2,6 @@ tasks:
   add thread
   update thread
   *detail thread
+    create view for detail thread
   add response
   

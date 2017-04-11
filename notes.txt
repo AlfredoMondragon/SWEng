@@ -1,0 +1,6 @@
+tasks:
+  add thread
+  update thread
+  *detail thread
+  add response
+  

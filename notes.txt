@@ -1,7 +1,14 @@
+LEGEND 
+  * = My Tasks
+  $ = Completed
+
 tasks:
   add thread
+    Nick
   update thread
+    Miguel
   *detail thread
     create view for detail thread
   add response
+    Taylor
   

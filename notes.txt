@@ -11,4 +11,13 @@ tasks:
     create view for detail thread
   add response
     Taylor
+    
+    
+    
+    
+ FIX: CSS by making it load static files
+
+    {% load staticfiles %}
+    
+    STATIC_URL = 
   
